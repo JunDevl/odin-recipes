@@ -1,0 +1,5 @@
+:root {
+  font-family: lora, serif;
+  font-weight: 500;
+  font-size: clamp(1.0em,1.5em,2.0em);
+}
